@@ -64,14 +64,7 @@ Use these demo accounts to log in:
 - Data is stored in **localStorage** (no backend required).  
 - Students can **add/drop courses, track progress, and view payments**.  
 - Admins can **manage courses, students, announcements, and payment reports**.  
-- Fully responsive layout with **sidebar navigation & modern UI**.  
-
----
-
-## 🖼️ Screenshots
-> *(Add your own screenshots here)*
-
----
+- Fully responsive layout with **sidebar navigation & modern ui
 
 ## 📌 Notes
 - This is a **frontend demo only** — no server/backend is connected.  
